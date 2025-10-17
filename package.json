@@ -3,7 +3,6 @@
   "description": "React Native JCore component for Android and iOS",
   "homepage"   : "https://github.com/Turingviz/jcore-react-native",
   "author"     : "turingviz",
-  "private"    : "false",
   "license"    : "ISC",
   "main"       : "index.js",
   "version"    : "1.0.0",
