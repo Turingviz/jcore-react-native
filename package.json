@@ -5,7 +5,7 @@
   "author"     : "turingviz",
   "license"    : "ISC",
   "main"       : "index.js",
-  "version"    : "2.3.1",
+  "version"    : "2.4.0",
   "repository" : {
     "type": "git",
     "url": "https://github.com/Turingviz/jcore-react-native"
